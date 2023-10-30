@@ -1,4 +1,4 @@
 
-const config = { backendEndpoint: "https://qtrip-dynamic-mqj6.onrender.com" };
+const config = { backendEndpoint: "https://qtrip.azurewebsites.net" };
 
 export default config;
